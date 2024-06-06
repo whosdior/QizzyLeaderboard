@@ -20,8 +20,8 @@ The Xtract Converter Bot is a Discord bot designed to track and display user act
 ### Installation
 1. **Clone the Repository**:
    ```sh
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone [<repository-url>](https://github.com/whosdior/QizzyLeaderboard.git)
+   cd QizzyLeaderboard
    ```
 
 2. **Install Dependencies**:
@@ -42,7 +42,7 @@ The Xtract Converter Bot is a Discord bot designed to track and display user act
 ### Running the Bot
 1. **Start the Bot**:
    ```sh
-   python bot.py
+   python leaderboard.py
    ```
 
 ## Code Overview
